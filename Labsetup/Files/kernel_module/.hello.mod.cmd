@@ -1,0 +1,1 @@
+cmd_/home/seed/Experiment--5/Labsetup/Files/kernel_module/hello.mod := { echo  /home/seed/Experiment--5/Labsetup/Files/kernel_module/hello.o;  echo; } > /home/seed/Experiment--5/Labsetup/Files/kernel_module/hello.mod
